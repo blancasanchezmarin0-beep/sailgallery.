@@ -170,7 +170,7 @@ export const artworks: Artwork[] = [
     material: "Acrílico sobre lienzo",
     size: "60 x 60 cm",
     price: "180 €",
-    status: "DISPONIBLE",
+    status: "NO DISPONIBLE",
     src: "/images/regata-cano-1.jpg",
     type: "lienzo",
     gallery: [
